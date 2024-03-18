@@ -1,4 +1,3 @@
-import { off } from "process";
 import { Color, Rules } from "../Data/struct";
 
 export function parseWord(word: string) {
